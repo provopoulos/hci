@@ -3,7 +3,6 @@ PARADOTEO 1<br>
 Deadline: 20/10/2019<br>
 Vasileios Provopoulos<br>
 ID/RN: P2018017<br>
-p18prov@ionio.gr<br>
 
 Deliverables:<br>
 -Change terminal hostname with student ID: https://asciinema.org/a/DmruKq0ic6Q4tNNRacDxHyjEd<br>
